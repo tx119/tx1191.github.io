@@ -2,10 +2,10 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>	
-    <title>课题组首页 - 贵州民族大学教师个人主页</title>
+    <title>课题组首页 - 贵州师范大学教师个人主页</title>
     <meta content="text/html; charset=UTF-8">
     <meta name="keywords" content="教师个人主页" />
-    <meta name="description" content="贵州民族大学教师个人主页" /> 
+    <meta name="description" content="贵州师范大学教师个人主页" /> 
     <!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">  
     <meta name="renderer" content="webkit">  
